@@ -1,0 +1,12 @@
+.unOrder {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+
+.link {
+  padding-right: 30px;
+  font-family: roboto;
+  font-size: 20px;
+  font-weight: 700;
+}
